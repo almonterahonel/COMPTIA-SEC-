@@ -1,13 +1,41 @@
 
+                                                  1.1 C O N T R O L L 
 
-
-
-  CONTROLL TYPES 
-Technical 
+ 
+:::::   4  CONTROLL CATEGORIES      :::::
+.Technical 
    Uses systems; firewall and antivirus
-Managerial 
+.Managerial 
    security designe and polocies
-Operational
+.Operational
    people instead of systems
-Physical
+.Physical
   limit physical access
+
+
+:::::   6  CONTROLL TYPES     :::::
+.Preventive 
+   You shall not pass
+.Deterent
+   "You Really shouldn't pass" 
+.Detective
+   "I couldnt help but to notice that you passed"
+.Directive
+   'yo, you guys make sure you guys lock your doors so no one passes' 
+.Corrective
+   I will kill you now
+.Compensating
+   I will trap you for now
+
+                                                  1.2  C I A   T R I A D 
+
+.Confedantiality 
+   Encryption
+
+.Intergrity 
+   Hashing
+
+.Availability 
+   Redundancy
+
+
